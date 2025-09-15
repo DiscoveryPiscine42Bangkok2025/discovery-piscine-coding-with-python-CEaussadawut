@@ -6,11 +6,11 @@
 #    By: aussapha <aussapha@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/09/14 20:43:44 by aussapha          #+#    #+#              #
-#    Updated: 2025/09/14 20:43:45 by aussapha         ###   ########.fr        #
+#    Updated: 2025/09/15 09:05:55 by aussapha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-first_name = 'Pongpada'
-last_name = 'Anoma'
+first_name = 'Aussadawut'
+last_name = 'Phathong'
 
 print(first_name, last_name)
