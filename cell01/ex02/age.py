@@ -6,11 +6,11 @@
 #    By: aussapha <aussapha@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/09/14 20:43:54 by aussapha          #+#    #+#              #
-#    Updated: 2025/09/14 20:43:55 by aussapha         ###   ########.fr        #
+#    Updated: 2025/09/15 09:07:08 by aussapha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-now = 20
+now = 21
 ft = 42
 my_age = now + ft
 print(my_age)
