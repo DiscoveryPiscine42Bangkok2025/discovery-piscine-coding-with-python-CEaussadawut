@@ -6,7 +6,7 @@
 #    By: aussapha <aussapha@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/09/14 20:46:13 by aussapha          #+#    #+#              #
-#    Updated: 2025/09/14 20:46:13 by aussapha         ###   ########.fr        #
+#    Updated: 2025/09/16 20:58:27 by aussapha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -25,3 +25,5 @@ persons = {
     "xavier": "niel",
     "fifi": "brindacier"
 }
+
+print(array_of_names(persons))
